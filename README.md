@@ -1,3 +1,6 @@
+Hello everyone, this is my complete web app development project using MERN stack and API integration. Please sit back and enjoy the app. The code details and functionalities are provided below. Happy Reading!!
+
+
 #### Complete App
 
 [Jobify](https://jobify.live/)
